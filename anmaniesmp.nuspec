@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>anmaniesmp</id>
-    <version>1.0</version>
+    <version>2.4</version>
     <title>AnmanieSMP</title>
     <packageSourceUrl>https://github.com/awatchanaman/Babysouris/raw/main/tools/Babysouris.zip</packageSourceUrl>
     <owners>awatchanaman</owners>
